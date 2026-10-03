@@ -1,0 +1,6 @@
+out/
+.idea
+!**/src/main/**/out/
+!**/src/test/**/out/
+Monitoria2026.2
+Monitoria2026.2.iml
