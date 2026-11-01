@@ -14,6 +14,10 @@ public class Questao_Revisao {
             System.out.println("C");
         }
 
+        catch (RuntimeException e) {
+            System.out.println("A");
+        }
+
         finally {
             System.out.println("D");
         }
