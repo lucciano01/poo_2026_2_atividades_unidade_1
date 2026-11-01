@@ -8,3 +8,7 @@ package aula5;
 // foi simplesmente não ter adicionado o serviço no usuário,
 // por isso a não estava puxando, deixei o código comentado,
 // mas qualquer dúvida podem falar comigo, não tem problema nenhum.
+
+
+
+// O código ficou ótimo, corrigi, otimizei, tirei os erros e tratei eles.
